@@ -1,0 +1,4 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.0.post1
+transformers[torch]==4.37.2
+pillow==10.2.0
